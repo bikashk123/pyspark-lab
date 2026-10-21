@@ -1,0 +1,1 @@
+{"name":"pyspark-tuning-lab","private":true,"type":"module","scripts":{"test":"node --test tests/model.test.mjs"}}
